@@ -1,0 +1,4 @@
+co/com/choucair/demoautomatizacion/runners/RunnerTags.java
+ co.com.choucair.demoautomatizacion.runners.RunnerTags
+co/com/choucair/demoautomatizacion/stepdefinitions/RegistrarUsuarioStepDefinitions.java
+ co.com.choucair.demoautomatizacion.stepdefinitions.RegistrarUsuarioStepDefinitions
