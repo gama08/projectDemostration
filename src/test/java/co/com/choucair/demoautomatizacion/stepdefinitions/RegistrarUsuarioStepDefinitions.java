@@ -36,7 +36,6 @@ public class RegistrarUsuarioStepDefinitions {
                 registrarseData.get(0).getConfirContrasenia()));
     }
 
-    //Step prueba
     @Then("^sigue en la misma pantalla$")
     public void sigueEnLaMismaPantalla(List<RegistrarseData> registrarseData) {
         OnStage.theActorInTheSpotlight().should(GivenWhenThen.seeThat(Respuestas.toThe(registrarseData.get(0).getPantalla())));
